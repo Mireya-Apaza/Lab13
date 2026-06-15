@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ok9yCKv/cu5Nb1oyohWxzBal9l5v5T0rscE95JP3cpZQt0qC30PyW71J9qHhpa/EzzYdmHNj82rZXJg8zNzfGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mirey\\RiderProjects\\LAB13APAZA\\LAB13APAZA\\LAB13APAZA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirey\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\swashbuckle.aspnetcore\\8.0.0\\swashbuckle.aspnetcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.0.0\\swashbuckle.aspnetcore.swagger.8.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.0.0\\swashbuckle.aspnetcore.swaggergen.8.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.0.0\\swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512",
+    "C:\\Users\\mirey\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
