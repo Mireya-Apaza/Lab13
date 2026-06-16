@@ -5,6 +5,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 
 if (app.Environment.IsDevelopment())
 {
@@ -27,3 +28,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+app.Urls.Add("http://0.0.0.0:8080");
