@@ -43,3 +43,9 @@ C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\Swashbuckle.
 C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\obj\Debug\net8.0\LAB13APAZA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\publish\web.config
+C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\publish\LAB13APAZA.deps.json
+C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\bin\Debug\net8.0\publish\LAB13APAZA.runtimeconfig.json
+C:\Users\mirey\RiderProjects\LAB13APAZA\LAB13APAZA\obj\Debug\net8.0\LAB13APAZA.sourcelink.json
