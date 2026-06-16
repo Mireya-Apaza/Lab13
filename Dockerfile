@@ -13,4 +13,4 @@ COPY --from=build /app/publish .
 
 EXPOSE 8080
 
-ENTRYPOINT ["dotnet", "Lab13.dll"]
+ENTRYPOINT ["dotnet", "LAB13APAZA.dll"]
